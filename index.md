@@ -1,9 +1,9 @@
 # Home
 * * *
 
-**1. [Profile](https://flast101.github.io/profile):** short presentation of myself.
+**[Profile](https://flast101.github.io/profile):** short presentation of myself.
 
-**2. [Hack The Box writeups](https://flast101.github.io/HTB-writeups/)**: here are walkthroughs to root machines on the [HackTheBox](https://www.hackthebox.eu) website, an online platform for learning and teaching cyber security.
+**[Hack The Box writeups](https://flast101.github.io/HTB-writeups/)**: here are walkthroughs to root machines on the [HackTheBox](https://www.hackthebox.eu) website, an online platform for learning and teaching cyber security.
 
 Writeups list:   
 
@@ -18,4 +18,4 @@ Writeups list:
 
 _04 July 2020_   
 **Padding Oracle Attack** : Padding Oracle attack fully explained and coded from scratch in Python3.
-_[Read more ...](https://flast101.github.io/padding-oracle-attack-explained)_
+_[Read more ...](https://flast101.github.io/padding-oracle-attack-explained)_   
