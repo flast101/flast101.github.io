@@ -17,5 +17,5 @@ Writeups list:
 * * *
 
 _04 July 2020_   
-**[Padding Oracle Attack]** : Padding Oracle attack fully explained and coded from scratch in Python3.
-_[Read more ...]_(https://flast101.github.io/padding-oracle-attack-explained)
+Padding Oracle Attack** : Padding Oracle attack fully explained and coded from scratch in Python3.
+_[Read more ...](https://flast101.github.io/padding-oracle-attack-explained)_
