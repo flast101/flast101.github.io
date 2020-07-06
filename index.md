@@ -1,7 +1,7 @@
 # Home
 * * *
 
-**[Profile](https://flast101.github.io/profile):** short presentation of myself.
+**[About](https://flast101.github.io/about.md):** Me, Myself and I.
 
 **[Hack The Box writeups](https://flast101.github.io/HTB-writeups/)**: here are walkthroughs to root machines on the [HackTheBox](https://www.hackthebox.eu) website, an online platform for learning and teaching cyber security.
 
