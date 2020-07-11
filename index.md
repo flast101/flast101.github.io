@@ -7,11 +7,11 @@
 
 Writeups list:   
 
-- _31 May 2020_: [Resolute](https://flast101.github.io/HTB-writeups/resolute)   
-- _13 June 2020_: [Monteverde](https://flast101.github.io/HTB-writeups/monteverde)   
-- _20 June 2020_: [ServMon](https://flast101.github.io/HTB-writeups/servmon)  
-- _11 July 2020_: [Book](https://flast101.github.io/HTB-writeups/book) 
 - _Soon_: [Sauna](https://flast101.github.io/HTB-writeups/sauna) 
+- _11 July 2020_: [Book](https://flast101.github.io/HTB-writeups/book) 
+- _20 June 2020_: [ServMon](https://flast101.github.io/HTB-writeups/servmon)  
+- _13 June 2020_: [Monteverde](https://flast101.github.io/HTB-writeups/monteverde)   
+- _31 May 2020_: [Resolute](https://flast101.github.io/HTB-writeups/resolute)   
 
 
 # Blog
