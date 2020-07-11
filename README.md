@@ -1,17 +1,16 @@
 # Home
 * * *
 
-**[About](https://flast101.github.io/about):** Me, Myself and I.
+**[About](https://github.com/flast101/flast101.github.io/tree/master/about):** Me, Myself and I.
 
 **[Hack The Box writeups](https://flast101.github.io/HTB-writeups/)**: here are walkthroughs to root machines on the [HackTheBox](https://www.hackthebox.eu) website, an online platform for learning and teaching cyber security.
 
 Writeups list:   
-
-- _31 May 2020_: [Resolute](https://flast101.github.io/HTB-writeups/resolute)   
-- _13 June 2020_: [Monteverde](https://flast101.github.io/HTB-writeups/monteverde)   
-- _20 June 2020_: [ServMon](https://flast101.github.io/HTB-writeups/servmon)  
-- _11 July 2020_: [Book](https://flast101.github.io/HTB-writeups/book) 
-- _Soon_: [Sauna](https://flast101.github.io/HTB-writeups/sauna) 
+- _Soon_: [Sauna](https://github.com/flast101/HTB-writeups/tree/master/sauna) 
+- _11 July 2020_: [Book](https://github.com/flast101/HTB-writeups/tree/master/book) 
+- _20 June 2020_: [ServMon](https://github.com/flast101/HTB-writeups/tree/master/servmon)  
+- _13 June 2020_: [Monteverde](https://github.com/flast101/HTB-writeups/tree/master/monteverde)   
+- _31 May 2020_: [Resolute](https://github.com/flast101/HTB-writeups/tree/master/resolute)   
 
 
 # Blog
@@ -25,4 +24,4 @@ It will only require ensuring that we are able to obtain a response from the ser
 
 In this article, we will focus on how to use this vulnerability and propose a python script that exploits CBC mode to decrypt a message encrypted in AES-CBC.
 
-_[Read more ...](https://flast101.github.io/padding-oracle-attack-explained)_   
+_[Read more ...](https://github.com/flast101//padding-oracle-attack-explained)_   
