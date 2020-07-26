@@ -13,7 +13,8 @@ _**Alice, Phoenix, Mike, Disco, Bob, Ralph, Pain, LeftTurn, Bethany, Alpha, BETA
 
 I am also an active member of [TryHackMe](https://tryhackme.com) and [HackTheBox](https://www.hackthebox.eu), two well known online platforms for learning and practicing cyber security and pentesting.
 
-HackTheBox machines I rooted while they were active (writeups and walkthrough unavailbale):      
+**HackTheBox machines I rooted while they were active (writeups and walkthrough unavailbale):**    
+
 | Names        | Difficulty         |
 | ------------- |:-------------:| 
 | Traverxec      | Easy |
@@ -34,7 +35,9 @@ HackTheBox machines I rooted while they were active (writeups and walkthrough un
 
 
 
-HackTheBox machines I rooted while they were retired:       
+**HackTheBox machines I rooted while they were retired:**        
+
+
 | Names        | Difficulty         |
 | ------------- |:-------------:| 
 |Lame|Easy|
