@@ -17,7 +17,7 @@ When working in the PWK lab, there is no writeup or walkthrough available and ne
 Here are the 27 machines I rooted so far in the PWK Lab :    
 _**Alice, Phoenix, Mike, Disco, Bob, Ralph, Pain, LeftTurn, Bethany, Alpha, BETA, Gamme, Bruce, Break, 1nsider, Tophat, Dotty, fc4, Susie, Kraken, Hotline, Joe, Core, Parrot.**_
 
-## Online cybersecurity platforms activity
+## Online Cybersecurity Platforms Activity
 
 I am also an active member of [TryHackMe](https://tryhackme.com) and [HackTheBox](https://www.hackthebox.eu), two well known online platforms for learning and practicing cyber security and pentesting.
 
