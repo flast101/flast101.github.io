@@ -1,4 +1,4 @@
-# About
+# /usr/bin/whoami
 
 I am a cybersecurity engineer living in France, found of security and pentest. I am graduated from the ESIEE school in Paris in telecomuncations and networks, and passed a "Master 2" in cybersecurity in AMU (Aix-Marseille University). I am now employed as presales engineer in charge of security solutions in a software company, 
 
@@ -14,10 +14,45 @@ _**Alice, Phoenix, Mike, Disco, Bob, Ralph, Pain, LeftTurn, Bethany, Alpha, BETA
 I am also an active member of [TryHackMe](https://tryhackme.com) and [HackTheBox](https://www.hackthebox.eu), two well known online platforms for learning and practicing cyber security and pentesting.
 
 HackTheBox machines I rooted while they were active (writeups and walkthrough unavailbale):      
+| Names        | Difficulty         |
+| ------------- |:-------------:| 
+| Traverxec      | Easy |
+| Resolute| Medium |
+| OpenAdmin | Easy |
+|Monteverde|Medium|
+|Sauna|Easy|
+|Book|Medium|
+|Nest|Easy|
+|Remote|Easy|
+|Traceback|Easy|
+|Cascade|Medium|
+|ServMon |Easy|
+|Magic|Medium|
+|Admirer|Easy|
+|Cache|Medium|
+|Blunder |Easy|
 
-Traverxec, Resolute, OpenAdmin, Monteverde, Sauna, ook, Nest, Remote, Traceback
 
-HackTheBox machines I rooted while they were retired:    
+
+HackTheBox machines I rooted while they were retired:       
+| Names        | Difficulty         |
+| ------------- |:-------------:| 
+|Lame|Easy|
+|Devel|Easy|
+|Beep|Easy|
+|Optimum|Easy|
+|Arctic|Easy|
+|Grandpa|Easy|
+|Granny|Easy|
+|Blocky|Easy|
+|Sense|Easy|
+|Nibbles|Easy|
+|Valentine|Easy|
+|Jerry|Easy|
+|Netmon|Easy|
+|Jarvis|Easy|
+|Forest|Medium|
+
 
 You can contact me @: flast101.sec@gmail.com
 
