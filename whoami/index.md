@@ -5,7 +5,7 @@ _[<-- Home](https://flast101.github.io)_
 
 ## Career
 
-I am a cybersecurity engineer living in France, found of security and pentest. I am an engineer graduated from the ESIEE school in Paris in telecomuncations and networks, and passed a "Master 2" in cybersecurity in AMU (Aix-Marseille University). I am now employed as presales engineer in charge of security solutions in a software company, 
+I am a cybersecurity engineer living in France, found of security and pentest. I am graduated from the ESIEE school in Paris in telecomuncations and networks, and passed a "Master 2" in cybersecurity in AMU (Aix-Marseille University). I am now employed as presales engineer in charge of security solutions in a software company, 
 
 ## OSCP Preparation
 
