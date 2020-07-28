@@ -26,3 +26,15 @@ It will only require ensuring that we are able to obtain a response from the ser
 
 In this article, we will focus on how to use this vulnerability and propose a python script that exploits CBC mode to decrypt a message encrypted in AES-CBC.    
 _[Read more ...](https://flast101.github.io/padding-oracle-attack-explained)_   
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-173692234-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-173692234-1');
+</script>
+
