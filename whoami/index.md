@@ -6,7 +6,9 @@ _Last update in July 2020._
 
 ## Career
 
-I am a cybersecurity engineer living in France, found of security and pentest. I am graduated from the ESIEE school in Paris in telecomuncations and networks, and passed a "Master 2" in cybersecurity in AMU (Aix-Marseille University). I am now employed as presales engineer in charge of security solutions in a software company. 
+![profil_site.png](images/profil_site.png "profil_site.png")
+
+I am a cybersecurity engineer living in France, found of security and pentest. I am graduated from the ESIEE school in Paris in telecomuncations and networks, and passed a "Master 2" in cybersecurity in AMU (Aix-Marseille University). I have been holding various positions in sevelral industries including IT. I am now employed as presales engineer in charge of security solutions in a software company. 
 
 ## OSCP Preparation
 
@@ -27,6 +29,8 @@ _**Alice, Phoenix, Mike, Disco, Bob, Ralph, Pain, LeftTurn, Bethany, Alpha, BETA
 ## Online Cybersecurity Platforms Activity
 
 I am also an active member of [TryHackMe](https://tryhackme.com) and [HackTheBox](https://www.hackthebox.eu), two well known online platforms for learning and practicing cyber security and pentesting.
+
+![french_ranking.png](images/french_ranking.png "french_ranking.png")
 
 **HackTheBox machines I rooted while they were active (writeups and walkthrough unavailbale):**    
 
