@@ -19,7 +19,7 @@ Writeups list:
 * * *
 _07 August 2020_
 ## Reverse Shell Cheat Sheet
-You can find them in a lot of places. Here are the one I could find here and there.
+You can find them in a lot of places. Here are the one I could find here and there.    
 _[Read more ...](https://flast101.github.io/reverse-shell-cheatsheet)_   
 
 * * * 
