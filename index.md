@@ -1,6 +1,7 @@
 # Home
 * * *
 
+
 **[/usr/bin/whoami](https://flast101.github.io/whoami)**: Me, Myself and I.
 
 **[Hack The Box writeups](https://flast101.github.io/HTB-writeups/)**: here are walkthroughs to root machines on the [HackTheBox](https://www.hackthebox.eu) website, an online platform for learning and teaching cyber security.
@@ -13,6 +14,7 @@ Writeups list:
 - _13 June 2020_: [Monteverde](https://flast101.github.io/HTB-writeups/monteverde)   
 - _31 May 2020_: [Resolute](https://flast101.github.io/HTB-writeups/resolute)   
 
+![home.jpg](home.jpg "home.jpg")
 
 # Blog   
 
