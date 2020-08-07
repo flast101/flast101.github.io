@@ -8,7 +8,7 @@ _Last update in July 2020._
 
 ![profil_site.png](images/profil_site.png "profil_site.png")
 
-I am a cybersecurity engineer living in France, found of security and pentest. I am graduated from the ESIEE school in Paris in telecomuncations and networks, and passed a "Master 2" in cybersecurity in AMU (Aix-Marseille University). I have been holding various positions in sevelral industries including IT. I am now employed as presales engineer in charge of security solutions in a software company. 
+I am a cybersecurity engineer living in France, found of security and pentest. I am graduated from the ESIEE school in Paris in telecomuncations and networks, and passed a "Master 2" in cybersecurity in AMU (Aix-Marseille University). I have been holding various positions in sevelral industries including IT. I am now employed by a software company as presales engineer in charge of security solutions. 
 
 ## OSCP Preparation
 
