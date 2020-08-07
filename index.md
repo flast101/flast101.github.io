@@ -14,13 +14,15 @@ Writeups list:
 - _31 May 2020_: [Resolute](https://flast101.github.io/HTB-writeups/resolute)   
 
 
-# Blog
+# Blog   
+
 * * *
 _07 August 2020_
 ## Reverse Shell Cheat Sheet
 You can find them in a lot of places. Here are the one I could find here and there.
 _[Read more ...](https://flast101.github.io/reverse-shell-cheatsheet)_   
 
+* * * 
 _04 July 2020_     
 ## Padding Oracle Attack
 **Padding Oracle attack fully explained and coded from scratch in Python3.**
