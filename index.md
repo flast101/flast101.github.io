@@ -1,6 +1,8 @@
 # Home
 * * *
 
+![home.jpg](home.jpg "home.jpg")
+
 
 **[/usr/bin/whoami](https://flast101.github.io/whoami)**: Me, Myself and I.
 
@@ -14,7 +16,6 @@ Writeups list:
 - _13 June 2020_: [Monteverde](https://flast101.github.io/HTB-writeups/monteverde)   
 - _31 May 2020_: [Resolute](https://flast101.github.io/HTB-writeups/resolute)   
 
-![home.jpg](home.jpg "home.jpg")
 
 # Blog   
 
