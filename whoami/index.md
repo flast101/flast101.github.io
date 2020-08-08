@@ -1,7 +1,7 @@
 _[<-- Home](https://flast101.github.io)_
 
 # /usr/bin/whoami
-_Last update in July 2020._
+_Last update in July 2020_
 * * * 
 
 ## Career
