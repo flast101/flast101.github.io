@@ -8,7 +8,7 @@ _Last update in July 2020._
 
 ![profil_site.png](images/profil_site.png "profil_site.png")
 
-I am a cybersecurity engineer living in France, found of security and pentest. I am graduated from the ESIEE school in Paris in telecomuncations and networks, and passed a "Master 2" in cybersecurity in AMU (Aix-Marseille University). I have been holding various positions in sevelral industries including IT. I am now employed by a software company as presales engineer in charge of security solutions. 
+I am a cybersecurity engineer living near Marseille, France, and found of security and pentest. I am graduated from the ESIEE school in Paris in telecomuncations and networks, and lately I passed a "Master 2" in cybersecurity in AMU (Aix-Marseille University). I have been holding various positions in several industries including IT. I am currently employed by a software company as presales engineer in charge of security solutions. 
 
 ## OSCP Preparation
 
@@ -32,48 +32,27 @@ I am also an active member of [TryHackMe](https://tryhackme.com) and [HackTheBox
 
 ![french_ranking.png](images/french_ranking.png "french_ranking.png")
 
-**HackTheBox machines I rooted while they were active (writeups and walkthrough unavailbale):**    
+**HackTheBox machines I rooted so far (while active, writeups and walkthrough unavailbale):**    
 
-| Names        | Difficulty         |
-| ------------- |:-------------:| 
-| Traverxec      | Easy |
-| Resolute| Medium |
-| OpenAdmin | Easy |
-|Monteverde|Medium|
-|Sauna|Easy|
-|Book|Medium|
-|Nest|Easy|
-|Remote|Easy|
-|Traceback|Easy|
-|Cascade|Medium|
-|ServMon |Easy|
-|Magic|Medium|
-|Admirer|Easy|
-|Cache|Medium|
-|Blunder |Easy|
-
-
-
-**HackTheBox machines I rooted while they were retired:**        
+| Rooted while retired        | Difficulty         | Rooted while active| Difficulty|
+| ------------- |:-------------:| ------|:-------------:| 
+|Lame|Easy| Traverxec      | Easy |
+|Devel|Easy| Resolute| Medium |
+|Beep|Easy| OpenAdmin | Easy |
+|Optimum|Easy|Monteverde|Medium|
+|Arctic|Easy|Sauna|Easy|
+|Grandpa|Easy|Book|Medium|
+|Granny|Easy|Nest|Easy|
+|Blocky|Easy|Remote|Easy|
+|Sense|Easy|Traceback|Easy|
+|Nibbles|Easy|Cascade|Medium|
+|Valentine|Easy|ServMon |Easy|
+|Jerry|Easy|Magic|Medium|
+|Netmon|Easy|Admirer|Easy|
+|Jarvis|Easy|Cache|Medium|
+|Forest|Medium|Blunder |Easy|
 
 
-| Names        | Difficulty         |
-| ------------- |:-------------:| 
-|Lame|Easy|
-|Devel|Easy|
-|Beep|Easy|
-|Optimum|Easy|
-|Arctic|Easy|
-|Grandpa|Easy|
-|Granny|Easy|
-|Blocky|Easy|
-|Sense|Easy|
-|Nibbles|Easy|
-|Valentine|Easy|
-|Jerry|Easy|
-|Netmon|Easy|
-|Jarvis|Easy|
-|Forest|Medium|
 
 ## Contact Information
 You can contact me @: flast101.sec@gmail.com
