@@ -32,7 +32,7 @@ I am also an active member of [TryHackMe](https://tryhackme.com) and [HackTheBox
 
 ![french_ranking.png](images/french_ranking.png "french_ranking.png")
 
-**HackTheBox machines I rooted so far (while active, writeups and walkthrough unavailbale):**    
+**HackTheBox machines I rooted so far (while active, writeups and walkthroughs are unavailbale):**    
 
 | Rooted while retired        | Difficulty         | Rooted while active| Difficulty|
 | ------------- |:-------------:| ------|:-------------:| 
