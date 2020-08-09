@@ -23,7 +23,8 @@ Writeups list:
 
 * * *
 _9 August 2020_    
-## Abusing Docker Weak Configuration    
+## Abusing Docker Configuration    
+**Privilege escalation in Docker**   
 In this article, I talk about a classic privilege escalation through Docker containers. This is a very well known trick used when the configuration let too many accounts run docker, and you will have to do it in some CTF boxes at least. Unfortunately, it is not always correcly understood.        
 I had a lot of fun the first time I encountered it in PWK lab as wells as the second time on a HTB machine.         
 Let's see what it is about.     
@@ -31,14 +32,15 @@ _[Read more ...](https://flast101.github.io/docker-privesc/)_
 
 * * *
 _7 August 2020_
-## Reverse Shell Cheat Sheet
+## Reverse Shell Cheat Sheet   
+**My Reverse Shell Cheat Sheet**   
 You can find them all artound the internet. I couldn't find them all in one place, so I write them down here. Don't hesitate to tell me if you find some more and I will add them to this list.    
 _[Read more ...](https://flast101.github.io/reverse-shell-cheatsheet)_   
 
 * * * 
 _4 July 2020_     
 ## Padding Oracle Attack
-**Padding Oracle attack fully explained and coded from scratch in Python3.**
+**Padding Oracle attack fully explained and coded from scratch in Python3**
 
 The padding oracle attack is a spectacular attack because it allows to decrypt a message that has been intercepted if the message was encrypted using CBC mode. POODLE (Padding Oracle On Downgraded Legacy Encryption) is a man-in-the-middle exploit which takes advantage of Internet and security software clients' fallback to SSL 3.0. If attackers successfully exploit this vulnerability, on average, they only need to make 256 SSL 3.0 requests to reveal one byte of encrypted messages.   
 It will only require ensuring that we are able to obtain a response from the server that will serve as an Oracle (we'll come back to these in more detail later in this report). We will then be able to decrypt the entire message except the first block, unless we know the initialization vector.   
