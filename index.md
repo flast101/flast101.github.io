@@ -1,7 +1,7 @@
 # Home
 * * *
 
-**Contact Information** - You can contact me @: flast101.sec@gmail.com
+_Contact Information: flast101.sec@gmail.com_   
 
 ![home.jpg](home.jpg "home.jpg")
 
