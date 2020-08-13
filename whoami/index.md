@@ -51,7 +51,7 @@ I am also an active member of [TryHackMe](https://tryhackme.com) and [HackTheBox
 |Netmon|Easy|Admirer|Easy|
 |Jarvis|Easy|Cache|Medium|
 |Forest|Medium|Blunder |Easy|
-
+|Shocker|Easy|
 
 
 ## Contact Information
