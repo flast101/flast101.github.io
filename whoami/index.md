@@ -1,7 +1,7 @@
 _[<-- Home](https://flast101.github.io)_
 
 # /usr/bin/whoami
-_Last update in July 2020_
+_Last update in August 2020_
 * * * 
 
 ## Career
@@ -52,6 +52,7 @@ I am also an active member of [TryHackMe](https://tryhackme.com) and [HackTheBox
 |Jarvis|Easy|Cache|Medium|
 |Forest|Medium|Blunder |Easy|
 |Shocker|Easy|
+|Blue|Easy|
 
 
 ## Contact Information
