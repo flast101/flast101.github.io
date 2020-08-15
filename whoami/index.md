@@ -53,7 +53,7 @@ I am also an active member of [TryHackMe](https://tryhackme.com) and [HackTheBox
 |Forest|Medium|Blunder |Easy|
 |Shocker|Easy|
 |Blue|Easy|
-
+|Legacy|Easy|
 
 ## Contact Information
 You can contact me @: flast101.sec@gmail.com
