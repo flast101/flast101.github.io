@@ -37,7 +37,7 @@ _7 August 2020_
 ## Reverse Shell Cheat Sheet    
 **My Reverse Shell Cheat Sheet**   
 
-You can find them all artound the internet. I couldn't find them all in one place, so I write them down here. Don't hesitate to tell me if you find some more and I will add them to this list.    
+You can find them all around the internet. I couldn't find them all in one place, so I write them down here. Don't hesitate to tell me if you find some more and I will add them to this list.    
 _[Read more ...](https://flast101.github.io/reverse-shell-cheatsheet)_   
 
 * * * 
