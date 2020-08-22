@@ -12,13 +12,13 @@ _Contact Information: flast101.sec@gmail.com_
 
 Writeups list:   
 
-- _15 August 2020_: [Traceback](https://flast101.github.io/HTB-writeups/traceback)
-- _18 July 2020_: [Sauna](https://flast101.github.io/HTB-writeups/sauna) 
-- _11 July 2020_: [Book](https://flast101.github.io/HTB-writeups/book) 
-- _20 June 2020_: [ServMon](https://flast101.github.io/HTB-writeups/servmon)  
-- _13 June 2020_: [Monteverde](https://flast101.github.io/HTB-writeups/monteverde)   
+- _22 August 2020_: [Magic](https://flast101.github.io/HTB-writeups/magic)   
+- _15 August 2020_: [Traceback](https://flast101.github.io/HTB-writeups/traceback)   
+- _18 July 2020_: [Sauna](https://flast101.github.io/HTB-writeups/sauna)    
+- _11 July 2020_: [Book](https://flast101.github.io/HTB-writeups/book)    
+- _20 June 2020_: [ServMon](https://flast101.github.io/HTB-writeups/servmon)    
+- _13 June 2020_: [Monteverde](https://flast101.github.io/HTB-writeups/monteverde)    
 - _31 May 2020_: [Resolute](https://flast101.github.io/HTB-writeups/resolute)   
-
 
 # Blog   
 
