@@ -34,26 +34,27 @@ I am also an active member of [TryHackMe](https://tryhackme.com) and [HackTheBox
 
 **HackTheBox machines I rooted so far (while active, writeups and walkthroughs are unavailbale):**    
 
-| Rooted while retired        | Difficulty         | Rooted while active| Difficulty|
-| ------------- |:-------------:| ------|:-------------:| 
-|Lame|Easy| Traverxec      | Easy |
-|Devel|Easy| Resolute| Medium |
-|Beep|Easy| OpenAdmin | Easy |
-|Optimum|Easy|Monteverde|Medium|
-|Arctic|Easy|Sauna|Easy|
-|Grandpa|Easy|Book|Medium|
-|Granny|Easy|Nest|Easy|
-|Blocky|Easy|Remote|Easy|
-|Sense|Easy|Traceback|Easy|
-|Nibbles|Easy|Cascade|Medium|
-|Valentine|Easy|ServMon |Easy|
-|Jerry|Easy|Magic|Medium|
-|Netmon|Easy|Admirer|Easy|
-|Jarvis|Easy|Cache|Medium|
-|Forest|Medium|Blunder |Easy|
-|Shocker|Easy|
-|Blue|Easy|
-|Legacy|Easy|
+| Rooted while retired | OS | Difficulty         | Rooted while active | OS | Difficulty|
+|-------------|-------------|-------------|-------------|-------------|-------------| 
+|Lame| Linux |Easy| Traverxec      |  Linux |Easy |
+|Devel| Windows |Easy| Resolute|  Windows  |Medium |
+|Beep| Linux |Easy| OpenAdmin |  Linux |Easy |
+|Optimum| Linux |Easy|Monteverde| Windows |Medium|
+|Arctic| Windows |Easy|Sauna| Windows |Easy|
+|Grandpa| Windows |Easy|Book| Linux |Medium|
+|Granny| Windows |Easy|Nest| Windows |Easy|
+|Blocky| Linux |Easy|Remote| Windows |Easy|
+|Sense| FreeBSD |Easy|Traceback| Linux |Easy|
+|Nibbles| Linux |Easy|Cascade| Windows |Medium|
+|Valentine| Linux |Easy|ServMon | Windows |Easy|
+|Jerry| Windows |Easy|Magic| Linux |Medium|
+|Netmon| Windows |Easy|Admirer| Linux |Easy|
+|Jarvis| Linux |Medium |Cache| Linux |Medium|
+|Forest| Windows |Medium|Blunder | Linux |Easy|
+|Shocker| Linux |Easy|
+|Blue| Windows |Easy|
+|Legacy| Windows |Easy|
+|Granny| Windows |Easy|
 
 ## Contact Information
 You can contact me @: flast101.sec@gmail.com
