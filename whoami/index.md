@@ -1,6 +1,6 @@
 _[<-- Home](https://flast101.github.io)_
 
-# /usr/bin/whoami
+# $(whoami)
 _Last update in August 2020_
 * * * 
 
