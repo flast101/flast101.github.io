@@ -1,12 +1,12 @@
 # Home
 * * *
 
-_Contact Information: flast101.sec@gmail.com_   
+_ls -la .contact: flast101.sec@gmail.com_   
 
 ![home.jpg](home.jpg "home.jpg")
 
 
-**[/usr/bin/whoami](https://flast101.github.io/whoami)**: Me, Myself and I.
+**[$(whoami)](https://flast101.github.io/whoami)**: Me, Myself and I.
 
 **[Hack The Box writeups](https://flast101.github.io/HTB-writeups/)**: here are walkthroughs to root machines on the [HackTheBox](https://www.hackthebox.eu) website, an online platform for learning and teaching cyber security.
 
