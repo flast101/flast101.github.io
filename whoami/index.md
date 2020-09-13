@@ -57,7 +57,7 @@ I am also an active member of [TryHackMe](https://tryhackme.com) and [HackTheBox
 |Granny| Windows |Easy|
 |Bashed| Linux | Easy |
 | Mirai | Linux | Easy |
-| Poison| Linux | Medium |
+| Poison| FreeBSB | Medium |
 
 ## Contact Information
 You can contact me @: flast101.sec@gmail.com
