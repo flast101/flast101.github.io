@@ -23,8 +23,8 @@ I am fairly new to pentest. I enrolled the PWK-OSCP course early february 2020 a
 
 When working in the PWK lab, there is no writeup or walkthrough available and neither students nor OSCP certified are allowed to provide information about the lab solutions.    
 
-Here are the 27 machines I rooted so far (May 2020) in the PWK Lab :    
-_**Alice, Phoenix, Mike, Disco, Bob, Ralph, Pain, LeftTurn, Bethany, Alpha, BETA, Gamme, Bruce, Break, 1nsider, Tophat, Dotty, fc4, Susie, Kraken, Hotline, Joe, Core, Parrot**_
+Here are the 27 machines I rooted so far (August 2020) in the PWK Lab :    
+_**Alice, Phoenix, Mike, Disco, Bob, Ralph, Pain, LeftTurn, Bethany, Alpha, BETA, Gamme, Bruce, Break, 1nsider, Tophat, Dotty, fc4, Susie, Kraken, Hotline, Joe, Core, Parrot, Humble, Sufferance, SVCLIENT08**_
 
 ## Online Cybersecurity Platforms Activity
 
@@ -51,16 +51,35 @@ I am also an active member of [TryHackMe](https://tryhackme.com) and [HackTheBox
 |Netmon| Windows |Easy|Admirer| Linux |Easy|
 |Jarvis| Linux |Medium |Cache| Linux |Medium|
 |Forest| Windows |Medium|Blunder | Linux |Easy|
-|Shocker| Linux |Easy|
+|Shocker| Linux |Easy| Buff | Linux | Easy |
 |Blue| Windows |Easy|
 |Legacy| Windows |Easy|
 |Granny| Windows |Easy|
 |Bashed| Linux | Easy |
 | Mirai | Linux | Easy |
 | Poison| FreeBSB | Medium |
+| Bank | Linux | Easy |
+| Cronos | Linux | Medium |
+| PoCorn| Linux | Medium |
+| SwagShop| Linux | Easy |
+| SolidState| Linux | Medium |
+| Sunday| Solaris| Easy |
+| Haircut| Linux| Medium|
+| Irked| Linux | Easy|
+| DevOops| Linux| Medium |
+| Postman| Linux| Easy|
+| Active| Windows | Medium|
+| Otober| Linux| Medium|
+| Networked| Linux| Easy|
+| Bastion| Windows | Easy |
+| Bastard| Windows| Medium|
+| Bounty| Windows | Easy |
+| Hawk | Linux | Medium |
+
+
 
 ## Contact Information
-You can contact me @: flast101.sec@gmail.com
+ls -la .contact: flast101.sec@gmail.com
 
 [<img src="http://www.hackthebox.eu/badge/image/249498" alt="HackTheBox">](https://www.hackthebox.eu/profile/249498)
 [![thm_badge](sig_thm_omni.png "thm_badge")](https://tryhackme.com/p/D3rf)   
