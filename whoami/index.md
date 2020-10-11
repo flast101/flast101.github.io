@@ -81,11 +81,13 @@ I am also an active member of [TryHackMe](https://tryhackme.com) and [HackTheBox
 ## Contact Information
 ls -la .contact: flast101.sec@gmail.com
 
-Be Curious, Learning is Life !
 
 [<img src="http://www.hackthebox.eu/badge/image/249498" alt="HackTheBox">](https://www.hackthebox.eu/profile/249498)
 [![thm_badge](sig_thm_omni.png "thm_badge")](https://tryhackme.com/p/D3rf)   
 QmUgQ3VyaW91cywgTGVhcm5pbmcgaXMgTGlmZSAhCg==
+
+
+Be Curious, Learning is Life !
 
 _[<-- Home](https://flast101.github.io)_
 
