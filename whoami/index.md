@@ -79,7 +79,7 @@ I am also an active member of [TryHackMe](https://tryhackme.com) and [HackTheBox
 
 
 ## Contact Information
-ls -la .contact: flast101.sec@gmail.com
+ls -la .contact: [flast101.sec@gmail.com](flast101.sec@gmail.com)
 
 
 [<img src="http://www.hackthebox.eu/badge/image/249498" alt="HackTheBox">](https://www.hackthebox.eu/profile/249498)
