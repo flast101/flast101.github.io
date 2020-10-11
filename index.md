@@ -2,7 +2,7 @@
 _My Infosec Blog - Be Curious, Learning Is Life !_
 * * *
 
-_ls -la .contact: flast101.sec@gmail.com_   
+_$ ls -la .contact: [flast101.sec@gmail.com](mailto:flast101.sec@gmail.com)_   
 
 ![home.jpg](home.jpg "home.jpg")
 
