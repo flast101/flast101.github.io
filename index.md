@@ -27,6 +27,15 @@ Writeups list:
 
 * * *
 _9 August 2020_    
+## PHP 8.1.0-dev Backdoor Remote Command Execution    
+**PHP 8.1.0-dev Backdoor System Shell Script**   
+
+An early release of PHP, the PHP 8.1.0-dev version was released with a backdoor on March 28th 2021, but the backdoor was quickly discovered and removed. If this version of PHP runs on a server, an attacker can execute arbitrary code by sending the User-Agentt header.   
+The following exploit uses the backdoor to provide a pseudo system shell on the host.     
+_[Read more ...](https://flast101.github.io/php-8.1.0-dev-backdoor-rce/)_   
+
+* * *
+_9 August 2020_    
 ## Abusing Docker Configuration    
 **Privilege escalation in Docker**   
 
