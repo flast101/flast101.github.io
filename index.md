@@ -26,7 +26,7 @@ Writeups list:
 # Blog   
 
 * * *
-_9 August 2020_    
+_23 may 2021_    
 ## PHP 8.1.0-dev Backdoor Remote Command Execution    
 **PHP 8.1.0-dev Backdoor System Shell Script**   
 
