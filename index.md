@@ -27,7 +27,7 @@ Writeups list:
 
 * * *
 _23 may 2021_    
-## PHP 8.1.0-dev Backdoor Remote Command Execution    
+## PHP 8.1.0-dev Backdoor Remote Code Execution    
 **PHP 8.1.0-dev Backdoor System Shell Script**   
 
 An early release of PHP, the PHP 8.1.0-dev version was released with a backdoor on March 28th 2021, but the backdoor was quickly discovered and removed. If this version of PHP runs on a server, an attacker can execute arbitrary code by sending the User-Agentt header.   
