@@ -16,9 +16,8 @@ I am a cybersecurity engineer living near Marseille, France, and found of securi
 $ ls -la .contact: [flast101.sec@gmail.com](mailto:flast101.sec@gmail.com)
 
 
-[<img src="http://www.hackthebox.eu/badge/image/249498" alt="HackTheBox">](https://www.hackthebox.eu/profile/249498)
-[![thm_badge](sig_thm_omni.png "thm_badge")](https://tryhackme.com/p/D3rf)   
-QmUgQ3VyaW91cywgTGVhcm5pbmcgaXMgTGlmZSAhCg==
+
+U3RheSBjdXJpb3VzICE=
 
 
 Stay curious !
