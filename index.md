@@ -1,5 +1,5 @@
 # Home
-_My Infosec Blog - Be Curious, Learning Is Life !_
+_My Infosec Blog - Stay curious !_
 * * *
 
 _$ ls -la .contact: [flast101.sec@gmail.com](mailto:flast101.sec@gmail.com)_   
@@ -65,7 +65,7 @@ In this article, we will focus on how to use this vulnerability and propose a py
 _[Read more ...](https://flast101.github.io/padding-oracle-attack-explained)_   
 
 * * *
-_Be Curious, Learning is Life !_
+_Stay curious !_
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-173692234-1"></script>
